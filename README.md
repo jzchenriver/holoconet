@@ -12,7 +12,7 @@ For validating the metrics in the paper,
 
 3. Run test.py
 
-If you find the work helpful, please givie me a star and cite the paper.
+If you find the work helpful, please give me a star and cite the paper.
 
 G. Chen, Z. Wang, W. Wang, X. Li and H. Wu, "Holistic Modularization of Local Contrast in the End-to-end Network for Infrared Small Target Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2023.3320191.
 
