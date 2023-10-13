@@ -2,8 +2,7 @@
 
 https://ieeexplore.ieee.org/document/10268945
 
-[G. Chen, Z. Wang, W. Wang, X. Li and H. Wu, "Holistic Modularization of Local Contrast in the End-to-end Network for Infrared Small Target Detection," in IEEE Geoscience and Remote Sensing Letters, 
-doi: 10.1109/LGRS.2023.3320191.]
+[Chen G, Wang Z, Wang W, et al. Holistic Modularization of Local Contrast in the End-to-end Network for Infrared Small Target Detection[J]. IEEE Geoscience and Remote Sensing Letters, 2023.]
 
 The test codes and trained models of HoLoCoNet on the NUDT-SIRST and IRSTD-1k datasets.
 
