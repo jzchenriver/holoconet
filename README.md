@@ -6,9 +6,11 @@ The test code and trained model of HoLoCoNet on the NUDT-SIRST and IRSTD-1k data
 
 For validating the metrics in the paper, 
 
-At first, downloading the dataset.
-Then, putting them in ./datasets/[name of the dataset]/images/ and ./datasets/[name of the dataset]/masks/.
-Run test.py
+1. Downloading the dataset.
+
+2. Putting them in ./datasets/[name of the dataset]/images/ and ./datasets/[name of the dataset]/masks/ respectively.
+
+3. Run test.py
 
 If you find the work helpful, please givie me a star and cite the paper.
 
