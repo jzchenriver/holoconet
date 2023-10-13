@@ -14,6 +14,14 @@ For validating the metrics in the paper,
 
 If you find the work helpful, please give me a star and cite the paper.
 
-G. Chen, Z. Wang, W. Wang, X. Li and H. Wu, "Holistic Modularization of Local Contrast in the End-to-end Network for Infrared Small Target Detection," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2023.3320191.
-
 Thank you!
+
+@ARTICLE{10268945,
+  author={Chen, Gao and Wang, Zhuang and Wang, Weihua and Li, Xinjian and Wu, Hanqing},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Holistic Modularization of Local Contrast in the End-to-end Network for Infrared Small Target Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/LGRS.2023.3320191}}
